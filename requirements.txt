@@ -1,0 +1,11 @@
+# Verified against src/airbnb_pricing (pipeline + train + predict) and the
+# notebook's EDA/plotting cells.
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+matplotlib
+seaborn
+jupyter
+joblib
