@@ -4,4 +4,4 @@
 # Treat notebooks as documentation/ report, not source code, so GitHub's language treat them as a markdown
 # instead of being dominated by the notebook's byte size
 
-*.ipynb linguist-documentation
+# *.ipynb linguist-documentation
